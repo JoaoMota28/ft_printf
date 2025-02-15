@@ -70,9 +70,9 @@ int ft_printf(const char *format, ...)
 }
 #include <stdio.h>
 
-int main(void)
+/*int main(void)
 {
     char    str[] = "ushsuhsksh";
     printf("%d\n", ft_printf("%p\n", (void *)str));
     printf("%d\n", printf("%p\n", (void *)str));
-}
+}*/
